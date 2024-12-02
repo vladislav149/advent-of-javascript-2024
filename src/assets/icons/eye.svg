@@ -1,0 +1,8 @@
+<svg viewBox="0 0 110 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M105 71C105 71 82.6142 102 55 102C27.3858 102 5 71 5 71" stroke="currentColor" stroke-width="10" stroke-linecap="round"/>
+<path class="svg-eye-pupil" d="M70 70C70 78.2843 63.2843 85 55 85C46.7157 85 40 78.2843 40 70C40 61.7157 46.7157 55 55 55C63.2843 55 70 61.7157 70 70Z" fill="currentColor"/>
+<path class="svg-eye-top" d="M105 70C105 70 82.6142 39 55 39C27.3858 39 5 70 5 70" stroke="currentColor" stroke-width="10" stroke-linecap="round"/>
+<path class="svg-eyelash-left" d="M9 21L18.6856 34.971" stroke="currentColor" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="svg-eyelash-middle" d="M55 22.5V5.5" stroke="currentColor" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="svg-eyelash-right" d="M91 35L100 21" stroke="currentColor" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
